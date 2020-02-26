@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "random:blocks/cut_sandstone",
+    "particle": "random:blocks/cut_sandstone"
+  }
+}

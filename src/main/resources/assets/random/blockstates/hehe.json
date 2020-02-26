@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "random:hehe"
+    },
+    "facing=north": {
+      "model": "random:hehe"
+    },
+    "facing=east": {
+      "model": "random:hehe",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "random:hehe",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "random:hehe",
+      "y": 270
+    }
+  }
+}
